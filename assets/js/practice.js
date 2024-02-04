@@ -25,9 +25,9 @@
 
     createCustomer(2, 'Rajesh', 'Javascript is a language mainly used for adding interactivity and dynanic content to webpages. It runs in web browsers. enabling developers to create interact user interfaces and enhance user experience.');
 
-    createCustomer(3, 'Dhoni', 'Data structure is a mechanical or logical way that data is organized.');
+    createCustomer(3, 'Dhoni', 'Datastructres: Ways of organizing and storing data efficiently, like arrays, linked lists, and trees.  Algorithms: Step-by-step procedures for solving problems, performing tasks on data structures, e.g., sorting or searching..');
 
-    createCustomer(4, 'Sai Pallavi', 'HTML Stands for hypertext markup language. With HTML, you can create your own websites. HTML describes the structure of web pages, HTML consists of a series of elements. HTML elements tell the browser how to display the content.');
+    createCustomer(4, 'Sai Pallavi', 'React.js is an open-source JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently manage the state of web applications. React is widely used for building interactive and dynamic single-page applications.');
 
     btn.forEach(function (button) {
         button.addEventListener('click', function (e) {
